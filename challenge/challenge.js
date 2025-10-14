@@ -1,0 +1,1 @@
+initFlagGame("challenge.json", "CHALLENGE", true);

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guess the flag! (Hard level)</title>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="../favicon.png" type="image/x-icon">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rye&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=New+Rocker&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+        rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <script src="https://kit.fontawesome.com/1a586228df.js" crossorigin="anonymous"></script>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="../css/normalize.css">
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <header class="header">
+        <a href="../index.html" class="btnBack"><i class="fa-solid fa-circle-left"></i></a>
+        <h1 class="title">Guess the flag!</h1>
+        <h2 class="subtitle">Test your knowledge about countries.</h2>
+        <p id="score"></p>
+    </header>
+
+    <main class="main">
+        <section class="win">
+            <p></p>
+            <a href="../index.html" class="btnPlay">Play again</a>
+        </section>
+        <section class="container">
+            <div class="flag" id="flag"></div>
+            <div class="options">
+                <p class="option"></p>
+                <p class="option"></p>
+                <p class="option"></p>
+                <p class="option"></p>
+            </div>
+        </section>
+    </main>
+
+    <script src="../game-engine.js"></script>
+    <script src="hard.js"></script>
+</body>
+
+</html>

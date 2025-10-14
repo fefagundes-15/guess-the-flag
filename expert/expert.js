@@ -1,0 +1,1 @@
+initFlagGame("expert.json", "expert");

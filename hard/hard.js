@@ -1,0 +1,1 @@
+initFlagGame("hard.json", "hard");

@@ -1,0 +1,302 @@
+[
+  {
+    "name": "nauru",
+    "flag": "https://www.countryflags.com/wp-content/uploads/nauru-flag-png-large.png"
+  },
+  {
+    "name": "tuvalu",
+    "flag": "https://www.countryflags.com/wp-content/uploads/tuvalu-flag-png-large.png"
+  },
+  {
+    "name": "kiribati",
+    "flag": "https://www.countryflags.com/wp-content/uploads/kiribati-flag-png-large.png"
+  },
+  {
+    "name": "palau",
+    "flag": "https://www.countryflags.com/wp-content/uploads/palau-flag-png-large.png"
+  },
+  {
+    "name": "marshall islands",
+    "flag": "https://www.countryflags.com/wp-content/uploads/marshall-islands-flag-png-large.png"
+  },
+  {
+    "name": "federated states of micronesia",
+    "flag": "https://www.countryflags.com/wp-content/uploads/micronesia-flag-png-large.png"
+  },
+  {
+    "name": "samoa",
+    "flag": "https://www.countryflags.com/wp-content/uploads/samoa-flag-png-large.png"
+  },
+  {
+    "name": "tonga",
+    "flag": "https://www.countryflags.com/wp-content/uploads/tonga-flag-png-large.png"
+  },
+  {
+    "name": "fiji",
+    "flag": "https://www.countryflags.com/wp-content/uploads/fiji-flag-png-large.png"
+  },
+  {
+    "name": "england",
+    "flag": "hhttps://www.countryflags.com/wp-content/uploads/england-flag-jpg-xl.jpg"
+  },
+  {
+    "name": "solomon islands",
+    "flag": "https://www.countryflags.com/wp-content/uploads/solomon-islands-flag-png-large.png"
+  },
+  {
+    "name": "papua new guinea",
+    "flag": "https://www.countryflags.com/wp-content/uploads/papua-new-guinea-flag-png-large.png"
+  },
+  {
+    "name": "east timor",
+    "flag": "https://www.countryflags.com/wp-content/uploads/east-timor-flag-png-large.png"
+  },
+  {
+    "name": "brunei",
+    "flag": "https://www.countryflags.com/wp-content/uploads/brunei-flag-png-large.png"
+  },
+  {
+    "name": "myanmar",
+    "flag": "https://www.countryflags.com/wp-content/uploads/myanmar-flag-png-large.png"
+  },
+  {
+    "name": "laos",
+    "flag": "https://www.countryflags.com/wp-content/uploads/laos-flag-png-large.png"
+  },
+  {
+    "name": "cambodia",
+    "flag": "https://www.countryflags.com/wp-content/uploads/cambodia-flag-png-large.png"
+  },
+  {
+    "name": "mongolia",
+    "flag": "https://www.countryflags.com/wp-content/uploads/mongolia-flag-png-large.png"
+  },
+  {
+    "name": "nepal",
+    "flag": "https://www.countryflags.com/wp-content/uploads/nepal-flag-png-large.png"
+  },
+  {
+    "name": "sri lanka",
+    "flag": "https://www.countryflags.com/wp-content/uploads/sri-lanka-flag-png-large.png"
+  },
+  {
+    "name": "bangladesh",
+    "flag": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-14-2048x1229.jpg"
+  },
+  {
+    "name": "maldives",
+    "flag": "https://www.countryflags.com/wp-content/uploads/maldives-flag-png-large.png"
+  },
+  {
+    "name": "yemen",
+    "flag": "https://www.countryflags.com/wp-content/uploads/yemen-flag-png-large.png"
+  },
+  {
+    "name": "oman",
+    "flag": "https://www.countryflags.com/wp-content/uploads/oman-flag-png-large.png"
+  },
+  {
+    "name": "qatar",
+    "flag": "https://www.countryflags.com/wp-content/uploads/qatar-flag-png-large.png"
+  },
+  {
+    "name": "kuwait",
+    "flag": "https://www.countryflags.com/wp-content/uploads/kuwait-flag-png-large.png"
+  },
+  {
+    "name": "bahrain",
+    "flag": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-13-2048x1229.jpg"
+  },
+  {
+    "name": "united arab emirates",
+    "flag": "https://www.countryflags.com/wp-content/uploads/united-arab-emirates-flag-png-large.png"
+  },
+  {
+    "name": "saudi arabia",
+    "flag": "https://www.countryflags.com/wp-content/uploads/saudi-arabia-flag-png-large.png"
+  },
+  {
+    "name": "afghanistan",
+    "flag": "https://www.countryflags.com/wp-content/uploads/afghanistan-flag-png-large.png"
+  },
+  {
+    "name": "turkmenistan",
+    "flag": "https://www.countryflags.com/wp-content/uploads/turkmenistan-flag-png-large.png"
+  },
+  {
+    "name": "tajikistan",
+    "flag": "https://www.countryflags.com/wp-content/uploads/tajikistan-flag-png-large.png"
+  },
+  {
+    "name": "kyrgyzstan",
+    "flag": "https://www.countryflags.com/wp-content/uploads/kyrgyzstan-flag-png-large.png"
+  },
+  {
+    "name": "uzbekistan",
+    "flag": "https://www.countryflags.com/wp-content/uploads/uzbekistan-flag-png-large.png"
+  },
+  {
+    "name": "kazakhstan",
+    "flag": "https://www.countryflags.com/wp-content/uploads/kazakhstan-flag-png-large.png"
+  },
+  {
+    "name": "belarus",
+    "flag": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-16-2048x1024.jpg"
+  },
+  {
+    "name": "moldova",
+    "flag": "https://www.countryflags.com/wp-content/uploads/moldova-flag-png-large.png"
+  },
+  {
+    "name": "ukraine",
+    "flag": "https://www.countryflags.com/wp-content/uploads/ukraine-flag-png-large.png"
+  },
+  {
+    "name": "georgia",
+    "flag": "https://www.countryflags.com/wp-content/uploads/georgia-flag-jpg-xl.jpg"
+  },
+  {
+    "name": "armenia",
+    "flag": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-8-2048x1024.jpg"
+  },
+  {
+    "name": "azerbaijan",
+    "flag": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-11-2048x1024.jpg"
+  },
+  {
+    "name": "montenegro",
+    "flag": "https://www.countryflags.com/wp-content/uploads/montenegro-flag-png-large.png"
+  },
+  {
+    "name": "north macedonia",
+    "flag": "https://www.countryflags.com/wp-content/uploads/macedonia-flag-png-large.png"
+  },
+  {
+    "name": "kosovo",
+    "flag": "https://www.countryflags.com/wp-content/uploads/kosovo-flag-png-large.png"
+  },
+  {
+    "name": "bosnia and herzegovina",
+    "flag": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-22-2048x1024.jpg"
+  },
+  {
+    "name": "albania",
+    "flag": "https://www.countryflags.com/wp-content/uploads/albania-flag-png-large.png"
+  },
+  {
+    "name": "serbia",
+    "flag": "https://www.countryflags.com/wp-content/uploads/serbia-flag-png-large.png"
+  },
+  {
+    "name": "croatia",
+    "flag": "https://www.countryflags.com/wp-content/uploads/croatia-flag-png-large.png"
+  },
+  {
+    "name": "slovenia",
+    "flag": "https://www.countryflags.com/wp-content/uploads/slovenia-flag-png-large.png"
+  },
+  {
+    "name": "slovakia",
+    "flag": "https://www.countryflags.com/wp-content/uploads/slovakia-flag-png-large.png"
+  },
+  {
+    "name": "czech republic",
+    "flag": "https://www.countryflags.com/wp-content/uploads/czech-republic-flag-png-large.png"
+  },
+  {
+    "name": "hungary",
+    "flag": "https://www.countryflags.com/wp-content/uploads/hungary-flag-png-large.png"
+  },
+  {
+    "name": "romania",
+    "flag": "https://www.countryflags.com/wp-content/uploads/romania-flag-png-large.png"
+  },
+  {
+    "name": "bulgaria",
+    "flag": "https://www.countryflags.com/wp-content/uploads/bulgaria-flag-png-large.png"
+  },
+  {
+    "name": "belgium",
+    "flag": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-18-2048x1775.jpg"
+  },
+  {
+    "name": "netherlands",
+    "flag": "https://www.countryflags.com/wp-content/uploads/netherlands-flag-png-large.png"
+  },
+  {
+    "name": "luxembourg",
+    "flag": "https://www.countryflags.com/wp-content/uploads/luxembourg-flag-png-large.png"
+  },
+  {
+    "name": "switzerland",
+    "flag": "https://www.countryflags.com/wp-content/uploads/switzerland-flag-png-large.png"
+  },
+  {
+    "name": "austria",
+    "flag": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-10-2048x1365.jpg"
+  },
+  {
+    "name": "liechtenstein",
+    "flag": "https://www.countryflags.com/wp-content/uploads/liechtenstein-flag-png-large.png"
+  },
+  {
+    "name": "monaco",
+    "flag": "https://www.countryflags.com/wp-content/uploads/monaco-flag-png-large.png"
+  },
+  {
+    "name": "san marino",
+    "flag": "https://www.countryflags.com/wp-content/uploads/san-marino-flag-png-large.png"
+  },
+  {
+    "name": "andorra",
+    "flag": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-4-2048x1434.jpg"
+  },
+  {
+    "name": "malta",
+    "flag": "https://www.countryflags.com/wp-content/uploads/malta-flag-png-large.png"
+  },
+  {
+    "name": "cyprus",
+    "flag": "https://www.countryflags.com/wp-content/uploads/cyprus-flag-png-large.png"
+  },
+  {
+    "name": "iceland",
+    "flag": "https://www.countryflags.com/wp-content/uploads/iceland-flag-png-large.png"
+  },
+  {
+    "name": "norway",
+    "flag": "https://www.countryflags.com/wp-content/uploads/norway-flag-png-large.png"
+  },
+  {
+    "name": "sweden",
+    "flag": "https://www.countryflags.com/wp-content/uploads/sweden-flag-png-large.png"
+  },
+  {
+    "name": "denmark",
+    "flag": "https://www.countryflags.com/wp-content/uploads/denmark-flag-png-large.png"
+  },
+  {
+    "name": "finland",
+    "flag": "https://www.countryflags.com/wp-content/uploads/finland-flag-png-large.png"
+  },
+  {
+    "name": "estonia",
+    "flag": "https://www.countryflags.com/wp-content/uploads/estonia-flag-png-large.png"
+  },
+  {
+    "name": "latvia",
+    "flag": "https://www.countryflags.com/wp-content/uploads/latvia-flag-png-large.png"
+  },
+  {
+    "name": "lithuania",
+    "flag": "https://www.countryflags.com/wp-content/uploads/lithuania-flag-png-large.png"
+  },
+  {
+    "name": "ireland",
+    "flag": "https://www.countryflags.com/wp-content/uploads/ireland-flag-png-large.png"
+  },
+  {
+    "name": "scotland",
+    "flag": "https://www.countryflags.com/wp-content/uploads/scotland-flag-jpg-xl.jpg"
+  }
+]

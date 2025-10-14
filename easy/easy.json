@@ -1,0 +1,42 @@
+[
+  {
+    "name": "united states",
+    "flag": "https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png"
+  },
+  {
+    "name": "united kingdom",
+    "flag": "https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-large.png"
+  },
+  {
+    "name": "france",
+    "flag": "https://www.countryflags.com/wp-content/uploads/france-flag-png-large.png"
+  },
+  {
+    "name": "germany",
+    "flag": "https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png"
+  },
+  {
+    "name": "italy",
+    "flag": "https://www.countryflags.com/wp-content/uploads/italy-flag-png-large.png"
+  },
+  {
+    "name": "spain",
+    "flag": "https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png"
+  },
+  {
+    "name": "canada",
+    "flag": "https://www.countryflags.com/wp-content/uploads/canada-flag-png-large.png"
+  },
+  {
+    "name": "australia",
+    "flag": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-9-2048x1024.jpg"
+  },
+  {
+    "name": "japan",
+    "flag": "https://www.countryflags.com/wp-content/uploads/japan-flag-png-large.png"
+  },
+  {
+    "name": "brazil",
+    "flag": "https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png"
+  }
+]

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guess the flag!</title>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rye&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=New+Rocker&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+        rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <header class="header">
+        <h1 class="title">Guess the flag!</h1>
+        <h2 class="subtitle">Test your knowledge about countries.</h2>
+        <p id="score"></p>
+    </header>
+
+    <main class="main">
+        <section class="difficulties">
+            <p>Select your level:</p>
+            <a href="easy/easy.html" class="btnPlay">Easy</a>
+            <a href="medium/medium.html" class="btnPlay">Medium</a>
+            <a href="hard/hard.html" class="btnPlay">Hard</a>
+            <a href="expert/expert.html" class="btnPlay">Expert</a>
+            <a href="challenge/challenge.html" class="btnPlay challenge">Challenge</a>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <footer class="footer container reveal">
+            &copy; <span id="currentYear"></span> Felipe Francisco
+        </footer>
+    </footer>
+
+    <script>
+        // Current year
+        const currentYear = new Date().getFullYear();
+        document.getElementById("currentYear").textContent = currentYear;
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,1 @@
+initFlagGame("medium.json", "medium");
